@@ -1,4 +1,6 @@
-Address = 149.12.97.199
+Address = vpntulug.no-ip.org
+Port = 657
+
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA3Fmh4DVBY10sCqj+xW5G5fB4rUqyxnEdpjnzsx3YSjr5GxByXJXr
 3+TeSzm+B1WRXweraDjHbF9ZZ9FiPscxUfe6vCSGwjnUKheUvJS2Lh7xOCpndjSW
